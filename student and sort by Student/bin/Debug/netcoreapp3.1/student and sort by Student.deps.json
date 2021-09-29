@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "student and sort by Student/1.0.0": {
+        "runtime": {
+          "student and sort by Student.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "student and sort by Student/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
